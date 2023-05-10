@@ -1,6 +1,7 @@
 # Create Changelog
 
 [![Actions Status](https://github.com/arduino/create-changelog/workflows/Test%20Action/badge.svg)](https://github.com/arduino/create-changelog/actions)
+[![Check npm status](https://github.com/arduino/create-changelog/actions/workflows/check-npm-task.yml/badge.svg)](https://github.com/arduino/create-changelog/actions/workflows/check-npm-task.yml)
 
 This actions is an highly opinionated tool that creates changelogs from the git repository commit history.
 
